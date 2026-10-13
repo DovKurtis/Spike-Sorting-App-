@@ -1,3 +1,1 @@
-# Spike Sorting App
-
-![App Screenshot](images/screenshot.png)
+![App Screenshot](screenshot.png)
